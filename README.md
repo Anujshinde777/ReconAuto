@@ -49,8 +49,7 @@ You may install many of these via your package manager (e.g., `apt`, `yum`, `bre
 ---
 
 ## Video
-[![Watch Demo](https://raw.githubusercontent.com/yourusername/ReconAuto1/main/assets/demo-thumb.jpg)](https://raw.githubusercontent.com/yourusername/ReconAuto1/main/assets/demo.mp4)
-
+ 
 ## Usage
 
 ```bash
